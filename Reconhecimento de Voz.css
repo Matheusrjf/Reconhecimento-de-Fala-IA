@@ -1,0 +1,13 @@
+face_recognition_cpp/
+├── include/
+│   └── FaceRecognizer.h
+├── src/
+│   ├── main.cpp
+│   ├── FaceRecognizer.cpp
+│   └── Database.cpp
+├── data/
+│   └── faces/ (imagens e embeddings)
+├── models/
+│   └── shape_predictor_68_face_landmarks.dat
+├── CMakeLists.txt
+└── README.md
